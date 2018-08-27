@@ -22,7 +22,4 @@
   "homepage": "https://xn--kbrr83a6ixbzl.xn--v0qr21b.xn--kpry57d/",
   "dependencies": {},
   "devDependencies": {},
-  "engines": {
-    "node": "^6.2.2"
-  }
 }

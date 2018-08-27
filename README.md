@@ -4,4 +4,4 @@
 
 
 ## License授權
-MIT License <http://g0v.mit-license.org/>
+MIT License

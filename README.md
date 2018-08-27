@@ -1,2 +1,7 @@
-# su5lui7-hun1kip4-gian2huat4
-詞彙分級研發中
+#  詞類分級研發中提示頁
+
+靜態網頁
+
+
+## License授權
+MIT License <http://g0v.mit-license.org/>
